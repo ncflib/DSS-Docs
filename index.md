@@ -9,7 +9,7 @@ permalink: /
 # Digital Scholarship Studio Documentation and Workflows
 ## Jane Bancroft Cook Library, New College of Florida
 
-This page serves as a repository of documentation, workflows, and services that deal with digital scholarship and digital humanities work at the Jane Bancroft Cook Library at the New College of Florida. It is principally managed by (Cal Murgu, Digital Humanities Librarian)[https://calmurgu.com]. More to come.
+This page serves as a repository of documentation, workflows, and services that deal with digital scholarship and digital humanities work at the Jane Bancroft Cook Library at the New College of Florida. It is principally managed by [Cal Murgu, Digital Humanities Librarian](https://calmurgu.com). More to come.
 
 ### Code of Conduct
 
